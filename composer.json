@@ -1,5 +1,5 @@
 {
-    "name": "brivio/composer-package-think-captcha",
+    "name": "brivio/think-captcha",
     "description": "captcha package for thinkphp5",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "license": "Apache-2.0",
     "require": {
-    	"brivio/composer-package-thinkphp": "5.1.*"
+    	"brivio/thinkphp": "5.1.*"
     },
     "autoload": {
         "psr-4": {
