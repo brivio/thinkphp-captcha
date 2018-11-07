@@ -1,6 +1,7 @@
 {
     "name": "brivio/think-captcha",
     "description": "captcha package for thinkphp5",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "yunwuxin",
