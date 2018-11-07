@@ -1,7 +1,6 @@
 {
     "name": "brivio/think-captcha",
     "description": "captcha package for thinkphp5",
-    "minimum-stability":"dev",
     "authors": [
         {
             "name": "yunwuxin",
@@ -10,7 +9,7 @@
     ],
     "license": "Apache-2.0",
     "require": {
-    	"brivio/thinkphp": "5.1.*"
+    	"brivio/thinkphp": "@dev"
     },
     "autoload": {
         "psr-4": {
